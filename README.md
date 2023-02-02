@@ -12,7 +12,14 @@ Open terminal in your downloaded project folder and type:
 
 ```
 npm install --force
-# Part of MUI (@material-ui/core) is not fully compatible with React >= 16.8.0, which is why --force is necessary.
+# Part of MUI (@material-ui/core) is not fully compatible with React >= 16.8.0,
+# which is why --force is necessary.
+```
+
+After installation run the APP with:
+
+```
+npm start
 ```
 
 > **Warning**
