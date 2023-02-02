@@ -1,7 +1,5 @@
 <img src="./public/LTWlogo.png" width="200px">
 
-![LTW](./public/LTWlogo.png | width=200)
-
 # Link The World
 
 ![ts](https://flat.badgen.net/badge/Built%20With/TypeScript/blue) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
